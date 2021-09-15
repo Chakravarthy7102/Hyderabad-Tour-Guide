@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hyderabad Tour Guide</string>
+    <string name="place">Place</string>
+    <string name="welcome_to_hyderabad">WElCOME TO HYDERABAD</string>
+    <string name="click_any_where_to_start">Click any where to Start</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+    <string name="click_here_for_full_details">Click here for full details</string>
+</resources>
